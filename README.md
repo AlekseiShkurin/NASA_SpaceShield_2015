@@ -43,7 +43,7 @@ Finally, we used k-means clustering to look into subset of unclassified asteroid
 
 ## Final words
 
-_"To be glad of life, because it gives you the chance to love and to work and to play and to look up at the stars", Henry Van Dyke_
+_"To be glad of life, because it gives you the chance to love and to work and to play and to look up at the stars", Henry Van Dyke (American author, educator, and diplomat)_
 
 
 
