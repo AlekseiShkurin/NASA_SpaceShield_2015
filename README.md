@@ -1,4 +1,4 @@
-# SoaceShield, NASA SpaceApps 2015 entry
+# SpaceShield, NASA SpaceApps 2015 Project
 ## Neuromorphic Studies of Asteroid Imagery.
 
 Our world is immensely fragile. One of the greatest existential threats (except for the ones we generate ourselves) comes from the space. NEO's (near-earth objects) such as asteroids and comets pose the same danger to our planet as they did before billion years ago. Latest events around the world (Chelyabinsk meteorite i.e.) has shown the scale of such danger. This makes study of these threats an essential purpose of world's astronomical and aerospace community.
